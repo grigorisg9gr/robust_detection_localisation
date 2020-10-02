@@ -65,4 +65,4 @@ If you do have any questions or improvements, feel free to open issues here or c
 Due to the heavy development of menpo and its research purpose, often there are breaking changes. This code, may not work with the latest menpoversion, however if you encounter such a compatibility problem, please get in touch and I will fix the problem with the code.
 
 #### **License**
-Apache 2, see LICENSE file for details.
+Apache 2, see LICENSE file for more details.
